@@ -16,13 +16,6 @@ namespace WindowsFormsApp2
     {
         public partial class CE
         {
-
-
-            public CE()
-            {
-
-            }
-          
             public bool DecryptTrainer(string filePath)
             {
                 MemoryStream ms;
