@@ -1,0 +1,9 @@
+C:\Users\Ali\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Ali\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Ali\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Ali\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Ali\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Ali\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\CEDECRYPTOR.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\CEDECRYPTOR.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Ali\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
